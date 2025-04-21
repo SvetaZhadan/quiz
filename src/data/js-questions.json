@@ -1,0 +1,19 @@
+
+[
+    {
+      "title": "Что выведет `console.log(typeof null)`?",
+      "variants": ["null", "object", "undefined"],
+      "correct": 1
+    },
+    {
+      "title": "Как объявить переменную, которую нельзя переназначить?",
+      "variants": ["var", "let", "const"],
+      "correct": 2
+    },
+    {
+      "title": "Какой метод превращает JSON-строку в объект?",
+      "variants": ["JSON.stringify()", "JSON.parse()", "JSON.objectify()"],
+      "correct": 1
+    }
+  ]
+  

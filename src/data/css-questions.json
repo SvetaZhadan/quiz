@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Какое свойство отвечает за цвет текста?",
+      "variants": ["background-color", "font-color", "color"],
+      "correct": 2
+    },
+    {
+      "title": "Как задать отступ внутри элемента?",
+      "variants": ["margin", "padding", "border"],
+      "correct": 1
+    },
+    {
+      "title": "Какой селектор выберет все элементы с классом 'box'?",
+      "variants": [".box", "#box", "box"],
+      "correct": 0
+    }
+  ]
+  
